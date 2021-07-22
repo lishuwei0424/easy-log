@@ -1,6 +1,5 @@
-#include "LoggerWarp.h"
+#include "main.h"
 #include <unistd.h>
-LoggerWarp *LoggerWarp::m_pInstance = nullptr;
 
 int main()
 { 

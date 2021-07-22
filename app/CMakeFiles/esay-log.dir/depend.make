@@ -38,6 +38,7 @@ CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.o: ../inc/log4cxx/spi/optionhandler.h
 CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.o: ../src/LoggerWarp.cpp
 
 CMakeFiles/esay-log.dir/test.cpp.o: ../inc/demo/LoggerWarp.h
+CMakeFiles/esay-log.dir/test.cpp.o: ../inc/demo/main.h
 CMakeFiles/esay-log.dir/test.cpp.o: ../inc/log4cxx/appender.h
 CMakeFiles/esay-log.dir/test.cpp.o: ../inc/log4cxx/basicconfigurator.h
 CMakeFiles/esay-log.dir/test.cpp.o: ../inc/log4cxx/file.h

@@ -1348,3 +1348,108 @@
 [ERROR] 2021-07-22 14:00:30,598(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
 [INFO ] 2021-07-22 14:00:30,598(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
 [ERROR] 2021-07-22 14:00:30,598(36008) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:01,233(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:01,233(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:01,233(0) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:03,233(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:03,233(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:03,233(2000) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:05,234(4001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:05,234(4001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:05,234(4001) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:07,234(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:07,234(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:07,234(6002) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:09,235(8002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:09,235(8002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:09,235(8002) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:11,235(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:11,235(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:11,235(10002) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:13,235(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:13,235(12003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:13,235(12003) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:15,236(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:15,236(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:15,236(14003) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:17,236(16004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:17,237(16004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:17,237(16004) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:19,237(18004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:19,237(18004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:19,237(18004) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:21,237(20005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:21,238(20005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:21,238(20005) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:23,238(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:23,238(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:23,238(22005) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:25,238(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:25,238(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:25,238(24005) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:27,238(26005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:27,238(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:27,238(26006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:29,239(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:29,239(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:29,239(28006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:31,239(30006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:31,239(30006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:31,239(30006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:33,239(32006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:33,239(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:33,240(32007) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:35,240(34007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:35,240(34007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:35,240(34007) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:37,240(36007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:37,240(36007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:37,240(36007) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:39,240(38007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:39,240(38008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:39,240(38008) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:41,241(40008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:41,241(40008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:41,241(40008) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:43,241(42008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:43,241(42008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:43,241(42009) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:45,242(44009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:45,242(44009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:45,242(44009) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:47,242(46009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:47,242(46009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:47,242(46009) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:49,242(48009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:49,242(48010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:49,242(48010) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:51,243(50010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:51,243(50010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:51,243(50010) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:53,243(52010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:53,243(52010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:53,243(52011) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:55,243(54011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:55,244(54011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:55,244(54011) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:57,244(56011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:57,244(56011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:57,244(56011) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:10:59,244(58012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:10:59,245(58012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:10:59,245(58012) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:11:01,245(60012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:11:01,245(60012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:11:01,245(60012) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:11:03,246(62013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:11:03,246(62013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:11:03,246(62013) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:11:05,246(64014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:11:05,246(64014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:11:05,247(64014) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:11:07,247(66014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:11:07,247(66014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:11:07,247(66014) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  
+[ERROR] 2021-07-22 14:11:09,248(68015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][8]:lsw,100000  
+[INFO ] 2021-07-22 14:11:09,248(68015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:11:09,248(68015) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][12]:FUNC ERROR  

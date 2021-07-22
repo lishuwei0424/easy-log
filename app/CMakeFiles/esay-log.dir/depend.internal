@@ -39,6 +39,7 @@ CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.o
  /home/lishuwei/easy_log/easy_log/src/LoggerWarp.cpp
 CMakeFiles/esay-log.dir/test.cpp.o
  ../inc/demo/LoggerWarp.h
+ ../inc/demo/main.h
  ../inc/log4cxx/appender.h
  ../inc/log4cxx/basicconfigurator.h
  ../inc/log4cxx/file.h

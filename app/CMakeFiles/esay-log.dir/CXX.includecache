@@ -22,6 +22,10 @@ string.h
 stdarg.h
 -
 
+../inc/demo/main.h
+LoggerWarp.h
+../inc/demo/LoggerWarp.h
+
 ../inc/log4cxx/appender.h
 log4cxx/spi/optionhandler.h
 -
@@ -269,8 +273,8 @@ log4cxx/helpers/objectptr.h
 -
 
 /home/lishuwei/easy_log/easy_log/app/test.cpp
-LoggerWarp.h
-/home/lishuwei/easy_log/easy_log/app/LoggerWarp.h
+main.h
+/home/lishuwei/easy_log/easy_log/app/main.h
 unistd.h
 -
 
