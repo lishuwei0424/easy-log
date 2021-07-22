@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /home/lishuwei/easy_log/easy_log
 CMAKE_BINARY_DIR = /home/lishuwei/easy_log/easy_log/app
 
 #=============================================================================
-# Target rules for target CMakeFiles/log-demo.dir
+# Target rules for target CMakeFiles/esay-log.dir
 
 # All Build rule for target.
-CMakeFiles/log-demo.dir/all:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/depend
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lishuwei/easy_log/easy_log/app/CMakeFiles --progress-num=1,2,3 "Built target log-demo"
-.PHONY : CMakeFiles/log-demo.dir/all
+CMakeFiles/esay-log.dir/all:
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/depend
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lishuwei/easy_log/easy_log/app/CMakeFiles --progress-num=1,2,3 "Built target esay-log"
+.PHONY : CMakeFiles/esay-log.dir/all
 
 # Include target in all.
-all: CMakeFiles/log-demo.dir/all
+all: CMakeFiles/esay-log.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/log-demo.dir/rule: cmake_check_build_system
+CMakeFiles/esay-log.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lishuwei/easy_log/easy_log/app/CMakeFiles 3
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/log-demo.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/esay-log.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/lishuwei/easy_log/easy_log/app/CMakeFiles 0
-.PHONY : CMakeFiles/log-demo.dir/rule
+.PHONY : CMakeFiles/esay-log.dir/rule
 
 # Convenience name for target.
-log-demo: CMakeFiles/log-demo.dir/rule
+esay-log: CMakeFiles/esay-log.dir/rule
 
-.PHONY : log-demo
-
-# clean rule for target.
-CMakeFiles/log-demo.dir/clean:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/clean
-.PHONY : CMakeFiles/log-demo.dir/clean
+.PHONY : esay-log
 
 # clean rule for target.
-clean: CMakeFiles/log-demo.dir/clean
+CMakeFiles/esay-log.dir/clean:
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/clean
+.PHONY : CMakeFiles/esay-log.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/esay-log.dir/clean
 
 .PHONY : clean
 

@@ -400,3 +400,951 @@
 [INFO ] 2021-07-22 13:31:47,874(382093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
 [ERROR] 2021-07-22 13:31:49,875(384093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw  
 [INFO ] 2021-07-22 13:31:49,875(384094)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:48:50,145(1)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:48:50,145(1)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:48:52,145(2001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:48:52,146(2001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:48:54,146(4001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:48:54,146(4001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:48:56,146(6002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:48:56,147(6002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:48:58,147(8002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:48:58,147(8002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:00,147(10003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:00,147(10003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:02,148(12003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:02,148(12003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:04,148(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:04,148(14004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:06,149(16004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:06,149(16004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:08,149(18005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:08,149(18005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:10,150(20005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:10,150(20005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:12,150(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:12,150(22006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:14,150(24006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:14,150(24006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:16,150(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:16,151(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:18,151(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:18,151(28007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:20,152(30007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:20,152(30007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:22,152(32008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:22,152(32008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:24,152(34008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:24,153(34008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:26,153(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:26,153(36009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:28,153(38009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:28,153(38009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:30,154(40009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:30,154(40009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:32,154(42010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:32,154(42010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:34,155(44010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:34,155(44010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:36,155(46011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:36,155(46011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:38,156(48011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:38,156(48011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:40,156(50012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:40,156(50012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:42,157(52012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:42,157(52013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:44,157(54013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:44,157(54013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:46,158(56013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:46,158(56013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:48,158(58013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:48,158(58014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:50,158(60014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:50,158(60014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:52,159(62014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:52,159(62015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:54,159(64015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:54,159(64015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:56,160(66015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:56,160(66016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:49:58,160(68016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:49:58,160(68016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:00,161(70016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:00,161(70016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:02,161(72016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:02,161(72017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:04,162(74017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:04,162(74017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:06,162(76018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:06,162(76018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:08,162(78018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:08,162(78018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:10,162(80018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:10,163(80018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:12,163(82019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:12,163(82019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:14,164(84020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:14,164(84020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:16,165(86020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:16,165(86020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:18,166(88021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:18,166(88021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:20,166(90021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:20,166(90022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:22,166(92022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:22,166(92022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:24,166(94022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:24,166(94022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:26,166(96022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:26,167(96022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:28,167(98022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:28,167(98023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:30,167(100023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:30,167(100023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:32,168(102023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:32,168(102024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:34,168(104024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:34,169(104024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:36,169(106025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:36,169(106025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:38,170(108025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:38,170(108025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:40,170(110026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:40,170(110026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:42,170(112026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:42,170(112026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:44,171(114027)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:44,171(114027)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:46,171(116027)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:46,172(116027)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:48,172(118028)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:48,172(118028)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:50,173(120028)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:50,173(120029)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:52,174(122029)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:52,174(122029)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:54,174(124029)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:54,174(124030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:56,174(126030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:56,174(126030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:50:58,175(128030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:50:58,175(128030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:00,175(130030)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:00,175(130031)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:02,175(132031)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:02,176(132031)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:04,176(134031)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:04,176(134031)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:06,176(136032)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:06,176(136032)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:08,177(138032)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:08,177(138033)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:10,177(140033)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:10,177(140033)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:12,178(142033)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:12,178(142033)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:14,178(144034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:14,178(144034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:16,178(146034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:16,179(146034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:18,179(148034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:18,179(148034)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:20,179(150035)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:20,179(150035)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:22,180(152035)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:22,180(152035)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:24,180(154036)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:24,180(154036)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:26,181(156036)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:26,181(156036)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:28,181(158037)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:28,182(158037)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:30,182(160037)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:30,182(160037)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:32,182(162038)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:32,182(162038)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:34,183(164038)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:34,183(164039)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:36,183(166039)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:36,183(166039)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:38,184(168039)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:38,184(168039)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:40,184(170040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:40,184(170040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:42,184(172040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:42,185(172040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:44,185(174040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:44,185(174040)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:46,185(176041)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:46,185(176041)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:48,186(178041)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:48,186(178041)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:50,186(180042)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:50,186(180042)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:52,187(182042)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:52,187(182042)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:54,187(184042)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:54,187(184043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:56,187(186043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:56,187(186043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:51:58,188(188043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:51:58,188(188043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:00,188(190043)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:00,188(190044)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:02,188(192044)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:02,188(192044)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:04,189(194044)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:04,189(194045)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:06,189(196045)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:06,189(196045)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:08,190(198045)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:08,190(198045)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:10,190(200046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:10,190(200046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:12,191(202046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:12,191(202046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:14,191(204046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:14,191(204046)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:16,191(206047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:16,191(206047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:18,191(208047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:18,192(208047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:20,192(210047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:20,192(210047)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:22,192(212048)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:22,192(212048)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:24,193(214048)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:24,193(214048)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:26,193(216049)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:26,193(216049)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:28,193(218049)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:28,194(218049)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:30,194(220050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:30,194(220050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:32,194(222050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:32,194(222050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:34,195(224050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:34,195(224050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:36,195(226050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:36,195(226050)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:38,195(228051)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:38,195(228051)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:40,196(230051)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:40,196(230051)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:42,196(232052)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:42,196(232052)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:44,197(234052)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:44,197(234052)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:46,197(236053)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:46,198(236053)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:48,198(238053)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:48,198(238053)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:50,198(240053)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:50,198(240054)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:52,198(242054)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:52,198(242054)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:54,199(244054)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:54,199(244054)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:56,199(246055)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:56,199(246055)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:52:58,200(248056)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:52:58,200(248056)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:00,201(250056)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:00,201(250057)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:02,202(252057)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:02,202(252057)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:04,202(254057)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:04,202(254058)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:06,202(256058)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:06,202(256058)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:08,203(258058)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:08,203(258058)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:10,203(260059)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:10,203(260059)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:12,204(262059)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:12,204(262059)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:14,204(264059)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:14,204(264060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:16,204(266060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:16,204(266060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:18,205(268060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:18,205(268060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:20,205(270060)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:20,205(270061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:22,205(272061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:22,205(272061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:24,206(274061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:24,206(274061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:26,206(276061)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:26,206(276062)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:28,206(278062)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:28,206(278062)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:30,207(280062)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:30,207(280062)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:32,207(282063)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:32,207(282063)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:34,208(284063)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:34,208(284063)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:36,208(286064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:36,208(286064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:38,208(288064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:38,208(288064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:40,209(290064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:40,209(290064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:42,209(292064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:42,209(292064)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:44,209(294065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:44,209(294065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:46,209(296065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:46,210(296065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:48,210(298065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:48,210(298065)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:50,210(300066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:50,210(300066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:52,210(302066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:52,210(302066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:54,210(304066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:54,211(304066)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:56,211(306067)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:56,211(306067)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:53:58,211(308067)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:53:58,212(308067)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:00,212(310068)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:00,212(310068)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:02,213(312068)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:02,213(312068)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:04,213(314069)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:04,213(314069)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:06,214(316069)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:06,214(316069)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:08,214(318069)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:08,214(318070)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:10,214(320070)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:10,215(320070)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:12,215(322070)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:12,215(322070)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:14,215(324071)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:14,215(324071)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:16,216(326071)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:16,216(326071)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:18,216(328072)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:18,217(328072)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:20,217(330073)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:20,217(330073)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:22,217(332073)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:22,217(332073)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:24,218(334073)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:24,218(334074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:26,218(336074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:26,218(336074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:28,219(338074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:28,219(338074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:30,219(340074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:30,219(340074)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:32,219(342075)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:32,219(342075)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:34,220(344075)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:34,220(344075)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:36,220(346076)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:36,220(346076)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:38,221(348076)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:38,221(348077)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:40,222(350077)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:40,222(350077)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:42,222(352078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:42,222(352078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:44,222(354078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:44,222(354078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:46,223(356078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:46,223(356078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:48,223(358078)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:48,223(358079)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:50,224(360079)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:50,224(360079)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:52,224(362080)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:52,224(362080)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:54,225(364080)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:54,225(364080)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:56,225(366080)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:56,225(366081)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:54:58,225(368081)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:54:58,225(368081)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:00,226(370081)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:00,226(370082)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:02,226(372082)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:02,226(372082)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:04,226(374082)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:04,227(374082)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:06,227(376083)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:06,227(376083)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:08,228(378083)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:08,228(378084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:10,228(380084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:10,228(380084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:12,229(382084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:12,229(382084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:14,229(384084)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:14,229(384085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:16,229(386085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:16,229(386085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:18,230(388085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:18,230(388085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:20,230(390085)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:20,230(390086)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:22,230(392086)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:22,230(392086)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:24,231(394086)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:24,231(394086)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:26,231(396087)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:26,231(396087)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:28,232(398087)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:28,232(398087)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:30,232(400088)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:30,232(400088)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:32,233(402089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:32,233(402089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:34,233(404089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:34,233(404089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:36,234(406089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:36,234(406089)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:38,234(408090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:38,234(408090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:40,234(410090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:40,234(410090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:42,235(412090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:42,235(412090)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:44,235(414091)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:44,235(414091)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:46,236(416091)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:46,236(416092)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:48,237(418092)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:48,237(418092)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:50,237(420092)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:50,237(420092)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:52,237(422093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:52,237(422093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:54,237(424093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:54,237(424093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:56,237(426093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:56,238(426093)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:55:58,238(428094)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:55:58,238(428094)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:00,239(430094)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:00,239(430094)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:02,239(432095)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:02,239(432095)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:04,239(434095)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:04,240(434095)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:06,240(436096)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:06,240(436096)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:08,241(438096)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:08,241(438097)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:10,242(440097)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:10,242(440097)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:12,242(442098)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:12,242(442098)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:14,243(444098)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:14,243(444098)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:16,243(446099)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:16,244(446099)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:17,205(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:17,206(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:18,244(448100)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:18,244(448100)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:19,206(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:19,206(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:20,245(450100)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:20,245(450100)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:22,245(452100)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:22,245(452101)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:24,246(454101)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:24,246(454101)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:26,246(456102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:26,246(456102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:28,246(458102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:28,247(458102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:30,247(460102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:30,247(460102)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:32,247(462103)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:32,247(462103)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:34,248(464103)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:34,248(464103)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:36,248(466104)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:36,248(466104)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:38,249(468104)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:38,249(468104)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:40,249(470104)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:40,249(470105)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:42,249(472105)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:42,249(472105)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:44,250(474105)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:44,250(474105)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:46,250(476106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:46,250(476106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:48,250(478106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:48,251(478106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:50,251(480106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:50,251(480106)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:52,251(482107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:52,251(482107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:54,251(484107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:54,251(484107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:56,252(486107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:56,252(486107)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:56:58,252(488108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:56:58,252(488108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:00,252(490108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:00,252(490108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:02,253(492108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:02,253(492108)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:04,253(494109)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:04,253(494109)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:06,253(496109)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:06,253(496109)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:08,254(498110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:08,254(498110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:10,254(500110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:10,254(500110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:12,255(502110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:12,255(502110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:14,255(504110)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:14,255(504111)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:16,255(506111)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:16,255(506111)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:18,256(508111)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:18,256(508112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:18,766(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:18,766(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:18,766(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:20,256(510112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:20,256(510112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:20,766(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:20,766(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:20,766(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:22,257(512112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:22,257(512112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:22,766(4000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:22,766(4000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:22,766(4000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:24,257(514112)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:24,257(514113)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:24,767(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:24,767(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:24,767(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:26,257(516113)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:26,257(516113)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:26,767(8001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:26,767(8001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:26,767(8001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:28,258(518113)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:28,258(518113)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:28,768(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:28,768(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:28,768(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:30,258(520114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:30,258(520114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:30,768(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:30,768(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:30,768(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:32,258(522114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:32,259(522114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:32,768(14002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:32,769(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:32,769(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:34,259(524114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:34,259(524114)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:34,769(16003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:34,769(16003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:34,769(16003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:36,259(526115)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:36,259(526115)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:36,769(18003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:36,769(18003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:36,769(18003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:38,260(528115)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:38,260(528115)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:38,770(20004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:38,770(20004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:38,770(20004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:40,260(530116)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:40,260(530116)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:40,771(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:40,771(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:40,771(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:42,261(532116)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:42,261(532116)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:42,771(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:42,771(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:42,772(24006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:44,261(534117)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:44,262(534117)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:44,772(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:44,772(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:44,772(26006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:46,262(536117)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:46,262(536118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:46,772(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:46,772(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:46,772(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:48,262(538118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:48,262(538118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:48,773(30007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:48,773(30007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:48,773(30007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:50,263(540118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:50,263(540118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:50,773(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:50,773(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:50,773(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:52,263(542118)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:52,263(542119)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:52,774(34008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:52,774(34008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:52,774(34008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:54,263(544119)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:54,264(544119)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:54,774(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:54,774(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:54,774(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:56,265(546120)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:56,265(546120)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:56,774(38008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:56,775(38009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:56,775(38009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:57:58,265(548121)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:58,265(548121)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:58,775(40009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:57:58,775(40009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:57:58,775(40009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:00,266(550121)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:00,266(550122)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:00,775(42009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:00,775(42009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:00,775(42009)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:02,266(552122)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:02,266(552122)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:02,776(44010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:02,776(44010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:02,776(44010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:04,266(554122)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:04,267(554122)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:04,776(46010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:04,776(46010)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:04,777(46011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:06,267(556123)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:06,267(556123)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:06,777(48011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:06,777(48011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:06,777(48011)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:08,268(558123)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:08,268(558124)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:08,778(50012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:08,778(50012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:08,778(50012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:10,269(560124)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:10,269(560124)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:10,778(52012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:10,779(52012)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:10,779(52013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:12,269(562125)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:12,269(562125)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:12,779(54013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:12,779(54013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:12,779(54013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:14,270(564125)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:14,270(564125)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:14,779(56013)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:14,780(56014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:14,780(56014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:16,270(566125)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:16,270(566126)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:16,780(58014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:16,780(58014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:16,780(58014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:18,270(568126)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:18,271(568126)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:18,780(60014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:18,780(60014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:18,780(60014)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:20,271(570126)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:20,271(570127)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:20,781(62015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:20,781(62015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:20,781(62015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:22,271(572127)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:22,271(572127)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:22,781(64015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:22,781(64015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:22,781(64015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:24,272(574127)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:24,272(574127)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:24,781(66015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:24,782(66015)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:24,782(66016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:26,272(576128)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:26,272(576128)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:26,782(68016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:26,782(68016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:26,782(68016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:28,273(578128)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:28,273(578128)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:28,782(70016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:28,782(70016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:28,782(70016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:30,273(580129)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:30,273(580129)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:30,782(72016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:30,783(72016)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:30,783(72017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:32,274(582129)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:32,274(582129)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:32,783(74017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:32,783(74017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:32,783(74017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:34,274(584130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:34,274(584130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:34,784(76017)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:34,784(76018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:34,784(76018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:36,274(586130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:36,274(586130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:36,784(78018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:36,784(78018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:36,784(78018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:38,275(588130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:38,275(588130)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:38,784(80018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:38,784(80018)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:38,785(80019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:40,275(590131)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:40,275(590131)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:40,785(82019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:40,785(82019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:40,785(82019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:42,276(592131)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:42,276(592131)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:42,785(84019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:42,785(84019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:42,785(84019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:44,276(594132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:44,276(594132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:44,786(86019)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:44,786(86020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:44,786(86020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:46,276(596132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:46,276(596132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:46,786(88020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:46,786(88020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:46,786(88020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:48,277(598132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:48,277(598132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:48,786(90020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:48,786(90020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:48,786(90020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:50,277(600132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:50,277(600132)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:50,786(92020)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:50,787(92021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:50,787(92021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:52,277(602133)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:52,278(602133)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:52,787(94021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:52,787(94021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:52,787(94021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:54,278(604133)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:54,278(604134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:54,787(96021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:54,787(96021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:54,787(96021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:56,278(606134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:56,278(606134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:56,787(98021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:56,787(98021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:56,787(98021)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:58:58,278(608134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:58,278(608134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:58,788(100022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:58:58,788(100022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:58:58,788(100022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:00,279(610134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:00,279(610134)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:00,788(102022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:00,788(102022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:00,788(102022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:02,279(612135)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:02,279(612135)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:02,788(104022)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:02,789(104023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:02,789(104023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:04,280(614135)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:04,280(614135)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:04,789(106023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:04,789(106023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:04,789(106023)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:06,280(616136)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:06,280(616136)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:06,790(108024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:06,790(108024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:06,790(108024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:08,281(618136)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:08,281(618136)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:08,790(110024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:08,790(110024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:08,790(110024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:10,281(620136)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:10,281(620137)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:10,790(112024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:10,790(112024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:10,790(112024)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:12,281(622137)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:12,281(622137)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:12,791(114025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:12,791(114025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:12,791(114025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:14,281(624137)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:14,282(624137)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:14,791(116025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:14,791(116025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:14,791(116025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:16,282(626138)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:16,282(626138)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:16,791(118025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:16,791(118025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:16,791(118025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:18,282(628138)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:18,283(628138)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:18,791(120025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:18,791(120025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:18,791(120025)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:20,283(630138)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:20,283(630139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:20,792(122026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:20,792(122026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:20,792(122026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:22,283(632139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:22,283(632139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:22,792(124026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:22,792(124026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:22,792(124026)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:TASK  
+[ERROR] 2021-07-22 13:59:24,284(634139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:24,284(634139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:26,284(636139)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:26,284(636140)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:28,285(638140)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:28,285(638140)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:30,285(640141)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:30,285(640141)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:32,286(642141)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:32,286(642142)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:34,286(644142)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:34,286(644142)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:36,286(646142)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:36,287(646142)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:38,287(648143)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:38,287(648143)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:40,288(650143)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:40,288(650144)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:42,289(652144)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:42,289(652144)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:44,289(654145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:44,289(654145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:46,289(656145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:46,289(656145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:48,289(658145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:48,290(658145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:50,290(660145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:50,290(660145)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:52,290(662146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:52,290(662146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:54,290(664146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:54,291(664146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:54,590(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:54,590(0)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:54,590(0) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 13:59:56,291(666146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:56,291(666146)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:56,590(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:56,590(2000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:56,590(2000) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 13:59:58,291(668147)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:58,291(668147)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:58,590(4000)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 13:59:58,590(4001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 13:59:58,591(4001) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:00,291(670147)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:00,291(670147)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:00,591(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:00,591(6001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:00,591(6001) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:02,292(672147)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:02,292(672148)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:02,591(8001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:02,591(8001)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:02,591(8001) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:04,293(674148)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:04,293(674148)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:04,592(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:04,592(10002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:04,592(10002) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:06,293(676149)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:06,293(676149)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:06,592(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:06,592(12002)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:06,592(12002) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:08,294(678149)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:08,294(678149)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:08,593(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:08,593(14003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:08,593(14003) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:10,294(680150)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:10,294(680150)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:10,593(16003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:10,593(16003)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:10,593(16003) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:12,295(682150)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:12,295(682151)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:12,594(18004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:12,594(18004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:12,594(18004) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:14,295(684151)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:14,296(684151)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:14,594(20004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:14,594(20004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:14,594(20004) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:16,296(686151)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:16,296(686152)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:16,594(22004)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:16,594(22005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:16,594(22005) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:18,297(688152)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:18,297(688152)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:18,595(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:18,595(24005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:18,595(24005) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:20,297(690153)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:20,298(690153)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:20,595(26005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:20,595(26005)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:20,595(26006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:22,298(692153)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:22,298(692153)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:22,596(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:22,596(28006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:22,596(28006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:24,298(694154)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:24,298(694154)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:24,596(30006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:24,596(30006)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:24,596(30006) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:26,298(696154)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:26,299(696154)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:26,597(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:26,597(32007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:26,597(32007) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:28,597(34007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:28,597(34007)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:28,597(34007) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  
+[ERROR] 2021-07-22 14:00:30,598(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][9]:lsw,100000  
+[INFO ] 2021-07-22 14:00:30,598(36008)  [/home/lishuwei/easy_log/easy_log/app/test.cpp][main][10]:HAHHAHFHAH  
+[ERROR] 2021-07-22 14:00:30,598(36008) [TASK][/home/lishuwei/easy_log/easy_log/app/test.cpp][main][13]:FUNC ERROR  

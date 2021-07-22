@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.o CMakeFiles/esay-log.dir/test.cpp.o  -o esay-log -Wl,-rpath,/home/lishuwei/easy_log/easy_log/lib/log4cxx ../lib/log4cxx/liblog4cxx.so 

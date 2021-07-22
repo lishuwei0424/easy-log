@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named log-demo
+# Target rules for targets named esay-log
 
 # Build rule for target.
-log-demo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 log-demo
-.PHONY : log-demo
+esay-log: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 esay-log
+.PHONY : esay-log
 
 # fast build rule for target.
-log-demo/fast:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/build
-.PHONY : log-demo/fast
+esay-log/fast:
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/build
+.PHONY : esay-log/fast
 
 src/LoggerWarp.o: src/LoggerWarp.cpp.o
 
@@ -129,7 +129,7 @@ src/LoggerWarp.o: src/LoggerWarp.cpp.o
 
 # target to build an object file
 src/LoggerWarp.cpp.o:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/src/LoggerWarp.cpp.o
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.o
 .PHONY : src/LoggerWarp.cpp.o
 
 src/LoggerWarp.i: src/LoggerWarp.cpp.i
@@ -138,7 +138,7 @@ src/LoggerWarp.i: src/LoggerWarp.cpp.i
 
 # target to preprocess a source file
 src/LoggerWarp.cpp.i:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/src/LoggerWarp.cpp.i
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.i
 .PHONY : src/LoggerWarp.cpp.i
 
 src/LoggerWarp.s: src/LoggerWarp.cpp.s
@@ -147,7 +147,7 @@ src/LoggerWarp.s: src/LoggerWarp.cpp.s
 
 # target to generate assembly for a file
 src/LoggerWarp.cpp.s:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/src/LoggerWarp.cpp.s
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/src/LoggerWarp.cpp.s
 .PHONY : src/LoggerWarp.cpp.s
 
 test.o: test.cpp.o
@@ -156,7 +156,7 @@ test.o: test.cpp.o
 
 # target to build an object file
 test.cpp.o:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/test.cpp.o
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/test.cpp.o
 .PHONY : test.cpp.o
 
 test.i: test.cpp.i
@@ -165,7 +165,7 @@ test.i: test.cpp.i
 
 # target to preprocess a source file
 test.cpp.i:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/test.cpp.i
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/test.cpp.i
 .PHONY : test.cpp.i
 
 test.s: test.cpp.s
@@ -174,7 +174,7 @@ test.s: test.cpp.s
 
 # target to generate assembly for a file
 test.cpp.s:
-	$(MAKE) -f CMakeFiles/log-demo.dir/build.make CMakeFiles/log-demo.dir/test.cpp.s
+	$(MAKE) -f CMakeFiles/esay-log.dir/build.make CMakeFiles/esay-log.dir/test.cpp.s
 .PHONY : test.cpp.s
 
 # Help Target
@@ -184,7 +184,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... log-demo"
+	@echo "... esay-log"
 	@echo "... edit_cache"
 	@echo "... src/LoggerWarp.o"
 	@echo "... src/LoggerWarp.i"
