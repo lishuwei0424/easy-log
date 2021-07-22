@@ -85,4 +85,8 @@ void LoggerWarp::PrintWithModule( const char* file, long line, const char* funti
          LOG4CXX_TRACE(rootLogger,strlog);
          break;
     };
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 16f236bd84a3757cfa8f6d78a6b95f7ef5983ca0
